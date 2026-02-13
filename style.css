@@ -1,0 +1,25 @@
+.corpo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-left: 30px;
+    position: absolute;
+    left : 40px;
+    top: 40px;
+    
+}
+h1{
+    font-size: 100px;
+    color: rgb(14, 117, 212);
+}
+h2{
+    font-size: 50px;
+    color: rgb(6, 45, 82);
+    
+}
